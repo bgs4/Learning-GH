@@ -10,3 +10,7 @@ import Foundation
 struct MyModel{
     var name: String?
 }
+
+struct newModel{
+    var newName: String?
+}
